@@ -1,5 +1,5 @@
 # special-broccoli
-This is a test
+This an example repo to test some special broccoli!
 
 ## To compile
 
